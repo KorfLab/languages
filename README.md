@@ -14,9 +14,9 @@ are the various strengths and weaknesses for our bioinformatics work?
 | Go     | comp | block | brace | \n  | auto | sta |
 | Java   | vm   | block | brace |  ;  | auto | sta |
 | JS     | vm   | func  | brace |  ;  | auto | dyn |
-| Julia  | com  | block | tab   | \n  | auto | d+s |
+| Julia  | comp | block | tab   | \n  | auto | d+s |
 | Lua    | int  | block | tab   | \n  | auto | dyn |
-| Perl   | int  | lex   | brace |  ;  | auto | dyn |
+| Perl   | int  | block | brace |  ;  | auto | dyn |
 | Python | int  | func  | tab   | \n  | auto | dyn |
 | R      | int  |       |       |     | auto |     |
 | Ruby   | int  | mixed | tab   | \n  | auto | dyn |
